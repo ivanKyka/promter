@@ -43,7 +43,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "firebase": "^7.16.1",
+    "firebase": "^10.9.0",
     "firebaseui": "^4.6.0",
     "history": "^4.10.1",
     "mobx": "^5.15.4",
